@@ -8,4 +8,14 @@ Youtube Link: https://www.youtube.com/watch?v=DNtkI9VEOr4
 
 This provides an overview of the entire project in video and audio form.
 
-Poster
+Project Poster:
+
+The Project Poster gives a great layout of our research process and a brief summary of the results.
+
+Slides:
+
+The Slides included are from when I entered my project into the NC State Sports Analytics Club Competition and placed 3rd.
+
+PDF/RMD File:
+
+For the full in depth analysis, the PDF and RMD files are the thing to look at. This includes all code and complete reasults from the study
