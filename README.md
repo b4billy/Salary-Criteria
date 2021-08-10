@@ -1,4 +1,4 @@
-# The Changing Criteria Across Performance Based Salaries in Baseball
+# The Changing Criteria In Performance Based Salaries Across Major League Baseball
 
 This project was completed as part of the Data Scientists in Training (DST) Program created and ran by Dr. Eric Chi of North Carolina State University. This work was supported in part by NSF Grant Number DMS-1752692.
 
